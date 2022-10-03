@@ -1,0 +1,54 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Quantico" href="https://fonts.googleapis.com/css2?family=Quantico&display=swap" />
+    <mj-attributes>
+      <mj-text font-family="Quantico, sans-serif" align="center" font-size="18px" line-height="26px" color="#ffffff" padding="0px">
+      </mj-text>
+      <mj-image src="" alt="" padding="0px" />
+      <mj-button background-color="#D1AA5A" font-size="14px" color="#000000" font-family="Quantico, sans-serif" text-transform="uppercase" border-radius="0px" height="45px" width="200px">
+      </mj-button>
+      <mj-section padding="0px" background-color="#000">
+      </mj-section>
+      <mj-class name="head-text" font-size="48px" line-height="69pc" text-transform="uppercase" />
+    </mj-attributes>
+  </mj-head>
+
+
+
+  <mj-body background-color="#f1f1f1">
+
+    <!-- Logo -->
+
+    <mj-section>
+      <mj-column>
+        <mj-image padding="20px" width="120px" src="https://i.ibb.co/mv5vy08/logo.webp" alt="Logo" />
+
+      </mj-column>
+    </mj-section>
+
+    <!-- Welcome -->
+
+    <mj-section>
+      <mj-column>
+        <mj-image padding="20px" src="https://i.ibb.co/QvSBjKJ/hero-image.webp" alt="Welcome to the team" />
+
+      </mj-column>
+    </mj-section>
+
+    <!-- Discount -->
+
+    <mj-section padding-top="80px">
+        <mj-column>
+            <mj-image width="500px" padding-left="50px" padding-right="50px" src="https://i.ibb.co/0YFqtMz/discount-image.webp" alt="Thanks for signing up warrior. Enjoy 10% off your next order!" />
+            <mj-button padding="20px">
+                Get 10% Off Now
+            </mj-button>
+            <mj-text>
+                Or Use Code: 2JK34HKJ43 At Checkout
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+  </mj-body>
+
+</mjml>
