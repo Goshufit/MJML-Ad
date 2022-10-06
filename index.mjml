@@ -100,19 +100,19 @@
       <mj-column width="200px" padding="20px">
         <mj-image width="40px" src="https://i.ibb.co/wW9Ws3D/truck.webp" alt="" />
         <mj-text font-size="12px" line-height="21px" padding-top="15px">
-          Express Delivery
+          1-Day Delivery
         </mj-text>
       </mj-column>
       <mj-column width="200px" padding="20px">
         <mj-image width="40px" src="https://i.ibb.co/wW9Ws3D/truck.webp" alt="" />
         <mj-text font-size="12px" line-height="21px" padding-top="15px">
-          Express Delivery
+          World Delivery
         </mj-text>
       </mj-column>
       <mj-column width="200px" padding="20px">
         <mj-image width="40px" src="https://i.ibb.co/wW9Ws3D/truck.webp" alt="" />
         <mj-text font-size="12px" line-height="21px" padding-top="15px">
-          Express Delivery
+          Overnight Delivery
         </mj-text>
       </mj-column>
     </mj-section>
