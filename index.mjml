@@ -9,7 +9,7 @@
       </mj-button>
       <mj-section padding="0px" background-color="#000">
       </mj-section>
-      <mj-class name="head-text" font-size="48px" line-height="69pc" text-transform="uppercase" />
+      <mj-class name="head-text" font-size="48px" line-height="69px" text-transform="uppercase" />
     </mj-attributes>
   </mj-head>
 
@@ -21,7 +21,7 @@
 
     <mj-section>
       <mj-column>
-        <mj-image padding="20px" width="120px" src="https://i.ibb.co/mv5vy08/logo.webp" alt="Logo" />
+        <mj-image padding="20px" width="128px" src="https://i.ibb.co/mv5vy08/logo.webp" alt="Logo" />
 
       </mj-column>
     </mj-section>
@@ -38,17 +38,119 @@
     <!-- Discount -->
 
     <mj-section padding-top="80px">
-        <mj-column>
-            <mj-image width="500px" padding-left="50px" padding-right="50px" src="https://i.ibb.co/0YFqtMz/discount-image.webp" alt="Thanks for signing up warrior. Enjoy 10% off your next order!" />
-            <mj-button padding="20px">
-                Get 10% Off Now
-            </mj-button>
-            <mj-text>
-                Or Use Code: 2JK34HKJ43 At Checkout
-            </mj-text>
-        </mj-column>
+      <mj-column>
+        <mj-image width="500px" padding-left="50px" padding-right="50px" src="https://i.ibb.co/0YFqtMz/discount-image.webp" alt="Thanks for signing up warrior. Enjoy 10% off your next order!" />
+        <mj-button padding-top="20px">
+          Get 10% Off Now
+        </mj-button>
+        <mj-text font-size="12px">
+          Or Use Code: 2JK34HKJ43 At Checkout
+        </mj-text>
+      </mj-column>
     </mj-section>
 
+    <mj-section padding-top="80px" padding-left="20px" padding-right="20px">
+      <mj-column width="400px" padding-bottom="15px">
+        <mj-text mj-class="head-text">
+          Why Warstick?
+        </mj-text>
+      </mj-column>
+      <mj-column width="420px">
+        <mj-text>
+          We design uniquely original sporting goods for people looking for more substance and style from their stic, without sacrificing performance.
+        </mj-text>
+        <mj-image href="https://jeanpierregraham.dev/" src="https://i.ibb.co/0tYydQg/why-image.webp" alt="Learn more" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Video -->
+
+
+    <mj-section padding-top="80px">
+      <mj-column width="400px" padding-bottom="15px">
+        <mj-text mj-class="head-text" padding-left="20px" padding-right="20px">
+          Be The Storm
+        </mj-text>
+        <mj-text>
+          Check Out Our Latest Video.
+        </mj-text>
+        <mj-image padding-top="20px" href="https://jeanpierregraham.dev/" src="https://i.ibb.co/mzqBSnC/video-image.webp" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Services -->
+
+    <mj-section padding-top="80px">
+      <mj-column>
+        <mj-text font-size="30px" padding-right="20px" padding-left="20px" text-transform="uppercase">
+          Outstanding Service
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Guarentee -->
+
+    <mj-section padding-top="30px" padding-left="50px" padding-right="50px">
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="https://i.ibb.co/wW9Ws3D/truck.webp" alt="" />
+        <mj-text font-size="12px" line-height="21px" padding-top="15px">
+          Express Delivery
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="https://i.ibb.co/wW9Ws3D/truck.webp" alt="" />
+        <mj-text font-size="12px" line-height="21px" padding-top="15px">
+          Express Delivery
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="https://i.ibb.co/wW9Ws3D/truck.webp" alt="" />
+        <mj-text font-size="12px" line-height="21px" padding-top="15px">
+          Express Delivery
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="https://i.ibb.co/wW9Ws3D/truck.webp" alt="" />
+        <mj-text font-size="12px" line-height="21px" padding-top="15px">
+          Express Delivery
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Payments -->
+    <!-- This method of having images stack right next to each other is an MJMJL method where you put an HTML not MJML img tag inside
+     an MJML text tag allowing you to stack images inline without a large space in between. -->
+
+    <mj-section padding-top="10px" padding-bottom="80px">
+      <mj-column>
+        <mj-text>
+          <img src="https://i.ibb.co/4Y2XfQD/pay1.webp" width="35px" style="padding: 5px;">
+          <img src="https://i.ibb.co/WDr5h53/pay2.webp" width="35px" style="padding: 5px;">
+          <img src="https://i.ibb.co/S0PvF9K/pay3.webp" width="35px" style="padding: 5px;">
+          <img src="https://i.ibb.co/8NmKHHg/pay4.webp" width="35px" style="padding: 5px;">
+          <img src="https://i.ibb.co/fp6gVRn/pay5.webp" width="35px" style="padding: 5px;">
+          <img src="https://i.ibb.co/B62MByS/pay6.webp" width="35px" style="padding: 5px;">
+          <img src="https://i.ibb.co/PCWHdMV/pay7.webp" width="35px" style="padding: 5px;">
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<!-- Footer -->
+
+<mj-section background-color="#f6f6ef" padding-bottom="30px">
+  <mj-column width="300px" padding-top="30px">
+    <mj-text>
+      <a href="https://jeanpierregraham.dev/"><img src="https://i.ibb.co/gWPRB2s/facebook.png" width="25px" style="padding: 5px;"></a>
+      <a href="https://jeanpierregraham.dev/"><img src="https://i.ibb.co/ckBWyBh/instagram.png" width="25px" style="padding: 5px;"></a>
+      <a href="https://jeanpierregraham.dev/"><img src="https://i.ibb.co/cY76LMv/youtube.png" width="25px" style="padding: 5px;"></a>
+      <a href="https://jeanpierregraham.dev/"><img src="https://i.ibb.co/W0V0sPV/twitter.png" width="25px" style="padding: 5px;"></a>
+    </mj-text>
+    <mj-text color="#303030" font-family="Helvetica, sans-serif" font-size="12px" line-height="14px" padding-top="15px">
+      This message was sent to goshufit@gmail.com because you agreed to receive communication from Warstic LLC. Please do not reply to this email as this address is not monitored.<br><br> If you no longer wish to receive
+emails from Warstic LLC, click here to <span><a style="color: #000;" href="https://jeanpierregraham.dev/">unsubscribe</a></span>. 
+    </mj-text>
+  </mj-column>
+</mj-section>
   </mj-body>
 
 </mjml>
